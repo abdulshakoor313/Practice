@@ -10,3 +10,6 @@ let x = 10;
 let y= 25;
 let z= 40;
 
+if(x<=12){
+    console.log("haaaaa")
+}
